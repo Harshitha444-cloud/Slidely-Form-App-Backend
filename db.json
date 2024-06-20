@@ -1,0 +1,23 @@
+[
+  {
+    "name": "John Doe",
+    "email": "john@example.com",
+    "phone": "1234567890",
+    "github_link": "https://github.com/johndoe",
+    "stopwatch_time": 10
+  },
+  {
+    "name": "Harshithahc",
+    "email": "harsh@example.com",
+    "phone": "9856235698",
+    "github_link": "https://github.com/Harshitha H C",
+    "stopwatch_time": 20
+  },
+  {
+    "name": "Harshithahc",
+    "email": "harsh@example.com",
+    "phone": "9856235698",
+    "github_link": "https://github.com/Harshitha H C",
+    "stopwatch_time": 20
+  }
+]
